@@ -22,8 +22,8 @@ bool game;
 const int rows = 21;
 const int collumns = 10;
 
-int randBlock[5000];
-//int randBlock[7] = { 0,1,2,3,4,5,6 };
+//int randBlock[5000];
+int randBlock[7] = { 0,1,2,3,4,5,6 };
 int game_board[rows][collumns] = { {0,0,0,0,0,0,0,0,0,0},
 									   {0,0,0,0,0,0,0,0,0,0},
 									   {0,0,0,0,0,0,0,0,0,0},
